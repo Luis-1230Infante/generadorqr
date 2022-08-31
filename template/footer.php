@@ -4,7 +4,7 @@
 <hr>
       	<div class="row pt-5 pb-4">
         	<div class="col">
-            <p>Generador QR Avanzado</p>
+            <p>Generador QR</p>
           </div>
         </div>
 <hr>
